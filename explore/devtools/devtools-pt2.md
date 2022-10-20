@@ -1,0 +1,2 @@
+1. The bug was that num1 and num2 are being read as string and so the result which is the merge of two strings num1 and num2 which ends up to be "11"
+2. I would fix it by adding Number() with num1 and num2 in the brackets. (Shown in fix.png)
