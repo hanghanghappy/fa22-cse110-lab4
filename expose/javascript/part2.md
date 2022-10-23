@@ -35,5 +35,7 @@
     - E. false, because true is 1 when converted to number
     - F. true, because Boolean(2) is true and they are both the same type and equal
 15. === is a strict equaliy operator that checks the equality without type conversion while == is a non-strict check that converts the types
+16. [part2-question16.js](part2-question16.js)
 17. The result will be [2,4,6]. First we declare a new array newArr then we iterate the array and multiply the values by 2 then place them into the new array. Therefore the new array consists of values which are all multiplied by 2
+18. [part2-question18.js](part2-question18.js)
 19. 1 4 3 2
